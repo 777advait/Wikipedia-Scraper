@@ -1,0 +1,4 @@
+setuptools==56.0.0
+wikipedia==1.4.0
+click==8.0.3
+rich==10.12.0
