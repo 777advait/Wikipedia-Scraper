@@ -20,7 +20,7 @@ A basic wikipedia scraper which grabs information from wikipedia.org based on us
 
 ```python setup.py install```
 
-5. Now, you can call the `wikiscraper` command from any location of your machine.
+5. Now, you can call the `wikiscraper` command from any location on your machine.
 
 # `A simple example`
 
